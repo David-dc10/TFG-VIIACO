@@ -18,7 +18,7 @@ Este proyecto despliega una tienda online completamente funcional utilizando Doc
 ## 🚀 Despliegue rápido
 
 ```bash
-git clone https://github.com/tu_usuario/viiaco.git
+git clone https://github.com/David-dc10/viiaco.git
 cd viiaco
 docker compose build
 docker compose up -d
